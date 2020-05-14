@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>my webpage!</title>
-    </head>
-    <body>
-        hello, world! hello again! hello again again! hello seventh time! hello eigth time!
-    </body>
-</html>
