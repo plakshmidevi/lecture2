@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>my webpage!</title>
+        <title>My webpage!</title>
     </head>
     <body>
-        hello, world! hello again! 
+        Hello,world!
     </body>
 </html>
